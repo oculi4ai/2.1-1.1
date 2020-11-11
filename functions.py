@@ -15,6 +15,7 @@ m_colors={}
 
 # new code
 # edit on aziz branch
+# new test
 
 def start_mw(mw): #mw = (main window)
 	check_mw_db()
