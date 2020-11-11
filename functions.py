@@ -13,7 +13,7 @@ main_data_base='main.db'
 m_colors={}
 
 
-
+# new code
 
 def start_mw(mw): #mw = (main window)
 	check_mw_db()
